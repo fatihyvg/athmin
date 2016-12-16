@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APP_THEME3S" parent="android:Theme.Holo.Light.DarkActionBar">
+         <item name="android:actionBarStyle">@style/app</item>
+    </style>
+    <style name="app" parent="android:Widget.Holo.Light.ActionBar.Solid.Inverse">
+          <item name="android:background">#ff6000</item>
+    </style>
+
+    <style name="dialog_thene" parent="android:Theme.Dialog">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ATHMİN</string>
+    <string name="app_id">610835305727846</string>
+    <string name="app_guess">Tahmin Yapılıyor</string>
+    <string name="hipodromsec">Hipodrom Seç</string>
+    <string name="hpd">Hipodrom Seçiniz</string>
+    <string name="ayak">Bu Koşu İçin Tüm Ayak Sayısı</string>
+    <string name="rcss">Koşu Seç</string>
+    <string name="th">Tahmin Edilen</string>
+    <string name="color">#000000</string>
+    <string name="rest">Tahmin Yapılırken Lütfen Bekleyin</string>
+    <string-array name="allscitys">
+        <item>İstanbul Türkiye</item>
+        <item>İzmir Türkiye</item>
+        <item>Kocaeli Türkiye</item>
+        <item>Bursa Türkiye</item>
+        <item>Adana Türkiye</item>
+        <item>ŞanlıUrfa Türkiye</item>
+        <item>Kempton Park İngiltere</item>
+        <item>Chelmsford City İngiltere</item>
+        <item>GufStream Park A.B.D</item>
+        <item>WolwerHampton İngiltere</item>
+    </string-array>
+    <string-array name="allrace">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="allayaks">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+    </string-array>
+</resources>
